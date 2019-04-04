@@ -23,7 +23,6 @@ Example using crontab for scheduling:
 
 ```
 30 * * * * cd /path/to/bargain-notifier && pipenv run python3 main.py -n email -i switch lego
-
 ```
 
 ## Secrets formats
